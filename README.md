@@ -104,29 +104,29 @@ A client's path from landing page to a rated session, step by step.
 ## Architecture
 
 ```mermaid
-flowchart TB
+flowchart LR
   subgraph L0["Client"]
-    direction LR
+    direction TB
     L0_0["React SPA for clients, experts and admins"]
     L0_1["Socket.io client"]
     L0_2["LiveKit client"]
     L0_3["Stripe Elements"]
   end
   subgraph L1["Edge"]
-    direction LR
+    direction TB
     L1_0["Nginx on AWS EC2"]
     L1_1["HTTPS"]
     L1_2["Static build + /api & websocket proxy"]
   end
   subgraph L2["Application"]
-    direction LR
+    direction TB
     L2_0["Express REST API"]
     L2_1["Socket.io realtime hub"]
     L2_2["Cron session scheduler & metering"]
     L2_3["PM2 process manager"]
   end
   subgraph L3["Data & services"]
-    direction LR
+    direction TB
     L3_0["MongoDB Atlas (transactions)"]
     L3_1["AWS S3 media"]
     L3_2["Stripe"]
