@@ -163,6 +163,6 @@ flowchart LR
 
 Designed, built and deployed by **[Shair Ali](https://shairali.com)**, a full-stack developer who owns products end to end: architecture, interface, API, data, payments, servers and CI/CD.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-shairali.com-111?style=flat-square)](https://shairali.com) [![Fiverr](https://img.shields.io/badge/Fiverr-devshair-1DBF73?style=flat-square&logo=fiverr&logoColor=white)](https://www.fiverr.com/devshair) [![LinkedIn](https://img.shields.io/badge/LinkedIn-shairali2-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shairali2) [![GitHub](https://img.shields.io/badge/GitHub-shairalidev-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/shairalidev)
+[![Portfolio](https://img.shields.io/badge/Portfolio-shairali.com-111?style=flat-square)](https://shairali.com) [![Fiverr](https://img.shields.io/badge/Fiverr-devshair-1DBF73?style=flat-square&logo=fiverr&logoColor=white)](https://www.fiverr.com/sellers/devshair) [![LinkedIn](https://img.shields.io/badge/LinkedIn-shairali2-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shairali2) [![GitHub](https://img.shields.io/badge/GitHub-shairalidev-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/shairalidev)
 
 <sub>Have a similar project? [Get in touch](https://shairali.com/contact).</sub>
